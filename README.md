@@ -1,9 +1,8 @@
-# ComputerDB
+# POC
 Other Files:
 ------
 1. Functional Test Cases.pdf: Functional tests
 
-2. GUI Test Cases.pdf: GUI tests
 
 Purpose:
 -------
